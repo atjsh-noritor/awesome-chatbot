@@ -1,0 +1,23 @@
+{
+  "name": "@atjsh-noritor/awesome-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atjsh-noritor/awesome-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atjsh-noritor/awesome-chatbot/issues"
+  },
+  "homepage": "https://github.com/atjsh-noritor/awesome-chatbot#readme",
+  "dependencies": {
+    "@atjsh-noritor/chatbot-commons": "^1.0.0",
+    "@atjsh-noritor/nestjs-commons": "^1.0.0"
+  }
+}
